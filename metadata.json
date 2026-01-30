@@ -1,0 +1,7 @@
+{
+  "name": "LiveGal - 智能约会助手",
+  "description": "基于 Gemini 2.5 的下一代美学实时对话助手。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
